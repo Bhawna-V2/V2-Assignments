@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "username" : "Bhawna",
+            "password" : "123456",
+            "email": "bhawna@v2solutions.com"
+        },
+        {
+            "username" : "Mahi",
+            "password" : "12345678",
+            "email": "Mahi@v2solutions.com"
+        },
+        {
+            "username" : "praveen",
+            "password" : "9041030909",
+            "email": "praveen@v2solutions.com"
+        },        
+        {
+            "username" : "Mahir",
+            "password" : "9041012699",
+            "email": "Mahir@v2solutions.com"
+        },   
+        {
+            "username" : "Ansh",
+            "password" : "123456",
+            "email": "Ansh@v2solutions.com"
+        },
+        {
+            "username" : "Anaya",
+            "password" : "111111",
+            "email": "Anaya@v2solutions.com"
+        }
+    ]
+}
