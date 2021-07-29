@@ -35,7 +35,7 @@ export default {
 
 
         function LoginUser() {            
-            axios.get("userJson.json").then(response => { 
+            axios.post("https://task-management-system-f2ce9-default-rtdb.firebaseio.com/userJson.json" , input).then(response => { 
                 console.log(response.data.data)      
                 // For all users Data
                 const userData = response.data.data;          
