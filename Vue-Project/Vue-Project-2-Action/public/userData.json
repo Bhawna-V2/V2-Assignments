@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name" : "Bhawna Gupta",
+            "username" : "Bhawna",
+            "password" : "123456",
+            "email": "bhawna@v2solutions.com",
+            "dob": "21/11/1989",
+            "doj": "01/06/2021"
+        },
+        {
+            "name" : "Mahi Garg",
+            "username" : "Mahi",
+            "password" : "12345678",
+            "email": "Mahi@v2solutions.com",
+            "dob": "21/11/1989",
+            "doj": "05/06/2021"
+        },
+        {
+            "name" : "Parveen Garg",
+            "username" : "praveen",
+            "password" : "9041030909",
+            "email": "praveen@v2solutions.com",
+            "dob": "12/11/1989",
+            "doj": "01/07/2021"
+        },        
+        {
+            "name" : "Mahir Garg",
+            "username" : "Mahir",
+            "password" : "9041012699",
+            "email": "Mahir@v2solutions.com",
+            "dob": "11/03/2015",
+            "doj": "01/03/2021"
+        },   
+        {
+            "name" : "Ansh Gupta",
+            "username" : "Ansh",
+            "password" : "123456",
+            "email": "Ansh@v2solutions.com",
+            "dob": "01/11/1996",
+            "doj": "01/02/2021"
+        },
+        {
+            "name" : "Anaya Gupta",
+            "username" : "Anaya",
+            "password" : "111111",
+            "email": "Anaya@v2solutions.com",
+            "dob": "19/04/1996",
+            "doj": "01/02/2021"
+        }
+    ]
+}
